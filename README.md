@@ -5,6 +5,7 @@
   - [For Streamers](#for-streamers)
     - [FFZ Connection](#ffz-connection)
     - [BTTV Connection](#bttv-connection)
+    - [Streamlabs OBS](#streamlabs-obs)
   - [Trendy Emotes](#trendy-emotes)
 
 ![](emotes/hkGlod-4x.png) ![](emotes/hollowD-3x.gif)
@@ -28,7 +29,7 @@ From there, search the settings for `emote`; enable `BetterTTV Emotes`, `BetterT
 ![](./images/bttv-settings-emote.PNG)
 
 ### FFZ Settings
-TODO. You don't need to install FFZ to just see the emotes.
+You don't need to install FFZ to just see the emotes, but it has other useful features.
 
 ## For Streamers
 
@@ -61,10 +62,22 @@ From there, go to [shared emotes](https://betterttv.com/emotes/shared) and searc
 
 ![](./images/bttv-add-hollowD.PNG)
 
+### Streamlabs OBS
+To have the fancy emotes show up on your stream, add a Chatbox source in [Streamlabs OBS][slobs].
+
+Add a new scene source:
+
+![](./images/slobs-add-source.PNG)
+
+Select Chatbox:
+
+![](./images/slobs-select-chatbox.PNG)
+
+Enable BTTV and FFZ emotes:
+
+![](./images/slobs-chatbox-settings.PNG)
 
 
-[bttv]: https://betterttv.com/
-[ffz]: https://www.frankerfacez.com/
 
 ## Trendy Emotes
 
@@ -80,3 +93,9 @@ From there, go to [shared emotes](https://betterttv.com/emotes/shared) and searc
 | ![](emotes/GodTimeSave.png) | [GodTimeSave on FFZ](https://www.frankerfacez.com/emoticon/367644-GodTimeSave)
 | ![](emotes/shroomPog.png) | [shroomPog on FFZ](https://www.frankerfacez.com/emoticon/361872-shroomPog)
 | ![](emotes/widepeepoHappy.png) | [widepeepoHappy on FFZ](https://www.frankerfacez.com/emoticon/270930-widepeepoHappy)
+
+
+
+[bttv]: https://betterttv.com/
+[ffz]: https://www.frankerfacez.com/
+[slobs]: https://streamlabs.com/streamlabs-obs
