@@ -93,6 +93,7 @@ Enable BTTV and FFZ emotes:
 | ![](emotes/GodTimeSave.png) | [GodTimeSave on FFZ](https://www.frankerfacez.com/emoticon/367644-GodTimeSave)
 | ![](emotes/shroomPog.png) | [shroomPog on FFZ](https://www.frankerfacez.com/emoticon/361872-shroomPog)
 | ![](emotes/widepeepoHappy.png) | [widepeepoHappy on FFZ](https://www.frankerfacez.com/emoticon/270930-widepeepoHappy)
+| ![](emotes/Pog.png) | [Pog on FFZ](https://www.frankerfacez.com/emoticon/556103-Pog)
 
 
 
